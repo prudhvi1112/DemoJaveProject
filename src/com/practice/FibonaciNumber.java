@@ -2,6 +2,7 @@ package com.practice;
 
 import java.util.Scanner;
 
+//program
 public class FibonaciNumber 
 {
 	public static void main(String[] args) 
